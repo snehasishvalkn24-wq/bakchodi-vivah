@@ -2,5 +2,7 @@
   "name": "Bandhan Luxe Matrimony",
   "description": "Next-generation Indian matchmaking & matrimonial platform blending deep cultural values with modern discovery, verified trust signals, and dual candidate-family experiences.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
